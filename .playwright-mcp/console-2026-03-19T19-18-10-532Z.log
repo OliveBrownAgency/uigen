@@ -1,0 +1,75 @@
+[      53ms] [ERROR] ./src/lib/prompts/generation.tsx:21:200
+Parsing ecmascript source code failed
+  19 |
+  20 | * **Color palette**: Do not default to slate/gray backgrounds with blue accents. Pick a deliberate, distinctive palette — warm neutrals, unexpected accent colors, earthy tones, muted pastels, deep jewel tones, or high-contrast monochrome. Let the palette feel chosen, not defaulted.
+> 21 | * **Typography**: Use varied font weights, sizes, and tracking to create visual hierarchy and personality. Combine large display text with fine detail text. Avoid plain `text-xl font-bold text-white` headings with no further treatment.
+     |                                                                                                                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 22 | * **Buttons**: Style CTAs with character — pill shapes, ghost/outline styles, offset shadows, or interesting hover transitions. Never default to a flat full-width `bg-blue-600 hover:bg-blue-700` button.
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  23 | * **Layout**: Avoid the standard symmetric grid of identical cards. Try asymmetric layouts, offset elements, overlapping layers, or feature-forward compositions that break the expected pattern.
+  24 | * **Backgrounds**: Go beyond plain dark or white backgrounds — use subtle gradients, noise textures (via inline SVG or CSS), geometric shapes, or tinted surfaces to give depth.
+  25 | * **Details**: Small touches matter — custom dividers, creative use of borders, subtle shadows, ring effects used intentionally, or micro-interactions on hover.
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[     174ms] [ERROR] ./src/lib/prompts/generation.tsx:21:200
+Parsing ecmascript source code failed
+  19 |
+  20 | * **Color palette**: Do not default to slate/gray backgrounds with blue accents. Pick a deliberate, distinctive palette — warm neutrals, unexpected accent colors, earthy tones, muted pastels, deep jewel tones, or high-contrast monochrome. Let the palette feel chosen, not defaulted.
+> 21 | * **Typography**: Use varied font weights, sizes, and tracking to create visual hierarchy and personality. Combine large display text with fine detail text. Avoid plain `text-xl font-bold text-white` headings with no further treatment.
+     |                                                                                                                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 22 | * **Buttons**: Style CTAs with character — pill shapes, ghost/outline styles, offset shadows, or interesting hover transitions. Never default to a flat full-width `bg-blue-600 hover:bg-blue-700` button.
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  23 | * **Layout**: Avoid the standard symmetric grid of identical cards. Try asymmetric layouts, offset elements, overlapping layers, or feature-forward compositions that break the expected pattern.
+  24 | * **Backgrounds**: Go beyond plain dark or white backgrounds — use subtle gradients, noise textures (via inline SVG or CSS), geometric shapes, or tinted surfaces to give depth.
+  25 | * **Details**: Small touches matter — custom dividers, creative use of borders, subtle shadows, ring effects used intentionally, or micro-interactions on hover.
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[     246ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/:0
+[     390ms] Error: ./src/lib/prompts/generation.tsx:21:200
+Parsing ecmascript source code failed
+  19 |
+  20 | * **Color palette**: Do not default to slate/gray backgrounds with blue accents. Pick a deliberate, distinctive palette — warm neutrals, unexpected accent colors, earthy tones, muted pastels, deep jewel tones, or high-contrast monochrome. Let the palette feel chosen, not defaulted.
+> 21 | * **Typography**: Use varied font weights, sizes, and tracking to create visual hierarchy and personality. Combine large display text with fine detail text. Avoid plain `text-xl font-bold text-white` headings with no further treatment.
+     |                                                                                                                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 22 | * **Buttons**: Style CTAs with character — pill shapes, ghost/outline styles, offset shadows, or interesting hover transitions. Never default to a flat full-width `bg-blue-600 hover:bg-blue-700` button.
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  23 | * **Layout**: Avoid the standard symmetric grid of identical cards. Try asymmetric layouts, offset elements, overlapping layers, or feature-forward compositions that break the expected pattern.
+  24 | * **Backgrounds**: Go beyond plain dark or white backgrounds — use subtle gradients, noise textures (via inline SVG or CSS), geometric shapes, or tinted surfaces to give depth.
+  25 | * **Details**: Small touches matter — custom dividers, creative use of borders, subtle shadows, ring effects used intentionally, or micro-interactions on hover.
+
+Expression expected
+
+
+    at <unknown> (Error: ./src/lib/prompts/generation.tsx:21:200)
+    at Object.getCompilationErrors (file://C:\labs\uigen\node_modules\next\dist\server\dev\hot-reloader-turbopack.js:725:59)
+    at DevBundlerService.getCompilationError (file://C:\labs\uigen\node_modules\next\dist\server\lib\dev-bundler-service.js:39:55)
+    at DevServer.getCompilationError (file://C:\labs\uigen\node_modules\next\dist\server\dev\next-dev-server.js:643:42)
+    at DevServer.findPageComponents (file://C:\labs\uigen\node_modules\next\dist\server\dev\next-dev-server.js:613:43)
+    at async DevServer.renderErrorToResponseImpl (file://C:\labs\uigen\node_modules\next\dist\server\base-server.js:2619:26)
+[     390ms] [ERROR] ./src/lib/prompts/generation.tsx:21:200
+Parsing ecmascript source code failed
+  19 |
+  20 | * **Color palette**: Do not default to slate/gray backgrounds with blue accents. Pick a deliberate, distinctive palette — warm neutrals, unexpected accent colors, earthy tones, muted pastels, deep jewel tones, or high-contrast monochrome. Let the palette feel chosen, not defaulted.
+> 21 | * **Typography**: Use varied font weights, sizes, and tracking to create visual hierarchy and personality. Combine large display text with fine detail text. Avoid plain `text-xl font-bold text-white` headings with no further treatment.
+     |                                                                                                                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 22 | * **Buttons**: Style CTAs with character — pill shapes, ghost/outline styles, offset shadows, or interesting hover transitions. Never default to a flat full-width `bg-blue-600 hover:bg-blue-700` button.
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  23 | * **Layout**: Avoid the standard symmetric grid of identical cards. Try asymmetric layouts, offset elements, overlapping layers, or feature-forward compositions that break the expected pattern.
+  24 | * **Backgrounds**: Go beyond plain dark or white backgrounds — use subtle gradients, noise textures (via inline SVG or CSS), geometric shapes, or tinted surfaces to give depth.
+  25 | * **Details**: Small touches matter — custom dividers, creative use of borders, subtle shadows, ring effects used intentionally, or micro-interactions on hover.
+
+Expression expected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11193
+[     544ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/favicon.ico:0
+[     646ms] [ERROR] ./src/lib/prompts/generation.tsx:21:200
+Parsing ecmascript source code failed
+  19 |
+  20 | * **Color palette**: Do not default to slate/gray backgrounds with blue accents. Pick a deliberate, distinctive palette — warm neutrals, unexpected accent colors, earthy tones, muted pastels, deep jewel tones, or high-contrast monochrome. Let the palette feel chosen, not defaulted.
+> 21 | * **Typography**: Use varied font weights, sizes, and tracking to create visual hierarchy and personality. Combine large display text with fine detail text. Avoid plain `text-xl font-bold text-white` headings with no further treatment.
+     |                                                                                                                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 22 | * **Buttons**: Style CTAs with character — pill shapes, ghost/outline styles, offset shadows, or interesting hover transitions. Never default to a flat full-width `bg-blue-600 hover:bg-blue-700` button.
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  23 | * **Layout**: Avoid the standard symmetric grid of identical cards. Try asymmetric layouts, offset elements, overlapping layers, or feature-forward compositions that break the expected pattern.
+  24 | * **Backgrounds**: Go beyond plain dark or white backgrounds — use subtle gradients, noise textures (via inline SVG or CSS), geometric shapes, or tinted surfaces to give depth.
+  25 | * **Details**: Small touches matter — custom dividers, creative use of borders, subtle shadows, ring effects used intentionally, or micro-interactions on hover.
+
+Expression expected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11193

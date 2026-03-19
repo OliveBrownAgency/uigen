@@ -31,7 +31,8 @@
       "Bash(where gh:*)",
       "Bash(cmd.exe /c \"where gh 2>&1\")",
       "Bash(cmd.exe /c \"where gh & gh --version\" 2>&1)",
-      "Bash(cmd.exe /c \"gh repo create uigen --public --source=C:/labs/uigen --push 2>&1\")"
+      "Bash(cmd.exe /c \"gh repo create uigen --public --source=C:/labs/uigen --push 2>&1\")",
+      "Bash(gh auth:*)"
     ]
   }
 }
